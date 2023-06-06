@@ -73,4 +73,4 @@ See the screenshots in demo folder.
 期待大佬去这里 [GitHub - AldeaTeam/stock-chat-gpt](https://github.com/AldeaTeam/stock-chat-gpt) 贡献代码~~
 
 ### 致谢
-感谢本组成员的积极参与和献言献策~ 特别感谢： https://github.com/kuangjunwei1, https://github.com/EricJiang0423
+感谢本组成员的积极参与和献言献策~ 特别感谢： [KuangJunWei](https://github.com/kuangjunwei1)、 [EricJiang](https://github.com/EricJiang0423),当然以及[杨老师](https://github.com/pzc163)的鼓励指导~~😄
