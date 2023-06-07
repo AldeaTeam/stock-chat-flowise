@@ -65,6 +65,7 @@ See the screenshots in demo folder.
 -  [官方学习资料](https://docs.flowiseai.com/how-to-use)
 - [B站-利用LangChain + Flowise 极速搭建LLM应用！【中文字幕】](https://www.bilibili.com/video/BV11N411C78d/?share_source=copy_web&vd_source=c9c1f384e015f340e2b21e0e3db13eb8)，[原油管链接](https://youtu.be/EsI_7L0fzKk)
 - [B站-对比Flowise和LangFlow【【中文字幕】】]( https://www.bilibili.com/video/BV1tW4y1R7d9/?share_source=copy_web&vd_source=c9c1f384e015f340e2b21e0e3db13eb8), [原油管链接](https://youtu.be/OLuqTPofJ9g)
+- 见本项目文档，股票分析小组2023-6-7的分享会资料😄
 
 ### 开发计划（暂定）
 后续在此基础上进一步探索基于Langchain的低代码框架的应用潜力和优缺点。
