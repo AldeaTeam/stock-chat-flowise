@@ -58,13 +58,13 @@ See the screenshots in demo folder.
 虽然Langchain已经很方便了，但对于非程序员来说还是有些麻烦（和恐惧）。对于不熟悉代码和或没时间折腾各种框架的小伙伴来说，通过UI直观拖拽组件、输入关键参数就能实现零代码开发专属gpt应用的开源框架简直就是天赐神器！
 
 这里我们重点探索尝试了基于Langchain框架的开源项目Flowise和Langflow。
-其中Flowise是typescript写的，Langflow是python写的，基本使用颇为相似。
+其中Flowise是typescript写的，Langflow是python写的，基本使用颇为相似。这里主要介绍了Flowise的使用。
 
 ### 补充学习资料
-国内这方面的资源貌似还不是很多，视频资料请参考油管：
+国内这方面的资源貌似还不是很多，视频资料请参考：
 -  [官方学习资料](https://docs.flowiseai.com/how-to-use)
-- [利用LangChain + Flowise 极速搭建LLM应用！【中文字幕】](https://www.bilibili.com/video/BV11N411C78d/?share_source=copy_web&vd_source=c9c1f384e015f340e2b21e0e3db13eb8)，[原油管链接](https://youtu.be/EsI_7L0fzKk)
-- [对比Flowise和LangFlow【【中文字幕】】]( https://www.bilibili.com/video/BV1tW4y1R7d9/?share_source=copy_web&vd_source=c9c1f384e015f340e2b21e0e3db13eb8), [原油管链接](https://youtu.be/OLuqTPofJ9g)
+- [B站-利用LangChain + Flowise 极速搭建LLM应用！【中文字幕】](https://www.bilibili.com/video/BV11N411C78d/?share_source=copy_web&vd_source=c9c1f384e015f340e2b21e0e3db13eb8)，[原油管链接](https://youtu.be/EsI_7L0fzKk)
+- [B站-对比Flowise和LangFlow【【中文字幕】】]( https://www.bilibili.com/video/BV1tW4y1R7d9/?share_source=copy_web&vd_source=c9c1f384e015f340e2b21e0e3db13eb8), [原油管链接](https://youtu.be/OLuqTPofJ9g)
 
 ### 开发计划（暂定）
 后续在此基础上进一步探索基于Langchain的低代码框架的应用潜力和优缺点。
