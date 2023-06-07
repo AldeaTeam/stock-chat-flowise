@@ -42,7 +42,7 @@ Here we'll test the render option.
 After deployment, the rest of LEGO coding is similar as local development.
 
 #### Note - App can be instantly used as API or embed in website 😍 
-See the screenshots in demo folder.
+See the screenshots in this project folder.
 
 ## 文科小白都能立即上手的大模型应用框架！
 
@@ -57,8 +57,9 @@ See the screenshots in demo folder.
 
 虽然Langchain已经很方便了，但对于非程序员来说还是有些麻烦（和恐惧）。对于不熟悉代码和或没时间折腾各种框架的小伙伴来说，通过UI直观拖拽组件、输入关键参数就能实现零代码开发专属gpt应用的开源框架简直就是天赐神器！
 
-这里我们重点探索尝试了基于Langchain框架的开源项目Flowise和Langflow。
-其中Flowise是typescript写的，Langflow是python写的，基本使用颇为相似。这里主要介绍了Flowise的使用。
+我们重点探索尝试了基于Langchain框架的开源项目Flowise和Langflow。
+其中Flowise是typescript写的，Langflow是python写的，基本使用颇为相似。
+这里着重介绍了Flowise的使用。
 
 ### 补充学习资料
 国内这方面的资源貌似还不是很多，视频资料请参考：
