@@ -49,7 +49,7 @@ See the screenshots in demo folder.
 非常欢迎参与本开源项目的贡献！
 
 ### 补充项目背景
-首先感谢开源社区 DataWhale的用心组织~ 让纯文科出身的Sarai同学（本项目的第一位贡献者）也萌发了搭建大模型应用的热情。
+首先感谢开源社区 DataWhale的用心组织~ 让纯文科出身的Sarai同学也萌发了搭建大模型应用的热情。
 
 项目最初目标是参考Finchat等应用搭建具备本地PDF总结问答、web搜索总结等功能的股票分析助手，可选用多种LLM模型或商业API。
 
@@ -59,7 +59,6 @@ See the screenshots in demo folder.
 
 这里我们重点探索尝试了基于Langchain框架的开源项目Flowise和Langflow。
 其中Flowise是typescript写的，Langflow是python写的，基本使用颇为相似。
-
 
 ### 补充学习资料
 国内这方面的资源貌似还不是很多，视频资料请参考油管：
@@ -73,4 +72,5 @@ See the screenshots in demo folder.
 期待大佬去这里 [GitHub - AldeaTeam/stock-chat-gpt](https://github.com/AldeaTeam/stock-chat-gpt) 贡献代码~~
 
 ### 致谢
-感谢本组成员的积极参与和献言献策~ 特别感谢： [KuangJunWei](https://github.com/kuangjunwei1)、 [EricJiang](https://github.com/EricJiang0423),当然以及[杨老师](https://github.com/pzc163)的鼓励指导~~😄
+感谢本组成员的积极参与和献言献策~ 特别感谢： [KuangJunWei](https://github.com/kuangjunwei1)、 [EricJiang](https://github.com/EricJiang0423),[BlankZhou](https://github.com/zhou-yi-git), [DoubleShan](https://github.com/shanshan-he/)当然以及[杨老师](https://github.com/pzc163)的鼓励指导~~
+组长[Sarai小白](https://github.com/SaraiQX)
